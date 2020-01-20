@@ -1,0 +1,4 @@
+#Mon Jan 20 19:21:13 WIB 2020
+base.0=/home/rozi/AndroidStudioProjects/aplikasi_time_date_solat/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

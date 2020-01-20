@@ -1,0 +1,4 @@
+#Sun Jan 19 21:14:50 WIB 2020
+base.0=/home/rozi/AndroidStudioProjects/aplikasi_time_date_solat/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
